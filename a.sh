@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "To jest przykladowy program ktory nic nie robi ale zostal wlasnie zmodyfikowany"
+echo -e "To jest przykladowy program ktory nic nie robi ale zostal wlasnie zmodyfikowany\n"
+echo -e "12+12=$((12+12))"
