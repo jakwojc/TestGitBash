@@ -1,0 +1,4 @@
+Git push - wysyla nowe/zmodyfikowane pliki (dodane przez git add) do danego brancha danego repozytorium.
+Git commit - dodaje opis do tego co wysylamy za pomoca git push.
+Git pull - pobiera najnowsze wersje plikow z danego repozytorium.
+Git stash - 
